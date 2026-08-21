@@ -1,0 +1,2 @@
+TOKEN = '' 
+DATABASE = 'db.db'
